@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachi99-CodeHunter
 - 👀 I’m interested in computing
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently studying software engineering
 - 💞️ I’m looking to collaborate on projects and etc...
 
 <!---
